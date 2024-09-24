@@ -37,6 +37,7 @@
 
   <build>
     <finalName>example</finalName>
+    <!-- tes -->
     <!-- <plugins>
       Plugin untuk menjalankan Tomcat
       <plugin>
